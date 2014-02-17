@@ -4,7 +4,7 @@
  * Converts a variable to plural
  *
  * @author  Ramon Lpenta
- * @author  Yang Yang
+ * @author  Ported from an Inflector class found in the Akelos Framework.
  */
 class Modifier_plural extends Modifier
 {
