@@ -3,7 +3,7 @@
  * Modifier_plural
  * Converts a variable to plural
  *
- * @author  Ramon Lpenta
+ * @author  Ramon Lapenta
  * @author  Ported from an Inflector class found in the Akelos Framework.
  */
 class Modifier_plural extends Modifier
